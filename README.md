@@ -49,5 +49,3 @@ We use the publicly available [**MEx Dataset**](https://archive.ics.uci.edu/data
 
 ---
 
-## 📁 Project Structure
-
